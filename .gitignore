@@ -1,2 +1,14 @@
 # Project exclude paths
 /.gradle/
+/.idea/appInsightsSettings.xml
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/caches/deviceStreaming.xml
+/app/src/androidTest/java/com/fpacheco/library/ExampleInstrumentedTest.kt
+/app/src/test/java/com/fpacheco/library/ExampleUnitTest.kt
+/.idea/gradle.xml
+/.idea/kotlinc.xml
+/.idea/migrations.xml
+/.idea/misc.xml
+/.idea/vcs.xml

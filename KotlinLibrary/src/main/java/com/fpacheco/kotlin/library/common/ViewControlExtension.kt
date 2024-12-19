@@ -12,6 +12,10 @@ fun View.show(){
 	this.visibility = View.VISIBLE
 }
 
+fun View.setVisibility(visible: Boolean){
+    this.visibility = if(visible) View.VISIBLE else View.GONE
+}
+
 fun View.fadeInWithResize() {
 	this.apply {
 		scaleX = 0.5f
