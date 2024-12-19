@@ -6,7 +6,7 @@ plugins {
 
 android {
 	namespace = "com.fpacheco.kotlin.library"
-	compileSdk = 34
+	compileSdk = 35
 
 	defaultConfig {
 		minSdk = 25
@@ -52,7 +52,7 @@ afterEvaluate {
 
 				groupId = "com.github.ferpachecocanul"
 				artifactId = "kotlin-library"
-				version = "1.0"
+				version = "1.0.0"
 			}
 		}
 	}

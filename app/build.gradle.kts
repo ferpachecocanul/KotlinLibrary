@@ -5,12 +5,12 @@ plugins {
 
 android {
 	namespace = "com.fpacheco.library"
-	compileSdk = 34
+	compileSdk = 35
 
 	defaultConfig {
 		applicationId = "com.fpacheco.library"
 		minSdk = 25
-		targetSdk = 34
+		targetSdk = 35
 		versionCode = 1
 		versionName = "1.0"
 
